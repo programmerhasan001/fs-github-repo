@@ -13,3 +13,11 @@
 ### 12. git reset file name (commit to staging)
 ### 13. git restore file name (staging to working directory)
 ### 14. git clone
+
+this is normal text
+**this is bold text**
+_this is italic text_
+
+```html
+    <h4>Html Element</h4>
+```
