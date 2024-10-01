@@ -1,15 +1,15 @@
 # Learning Git&Github
-### git config (--global) user.name "name"
-### git config (--global) user.email "email"
-### git add .
-### git commit -m ""
-### git push
-### git pull
-### git log & git log --oneline
-### git checkout commit id
-### git reset --soft HEAD~1
-### git reflog (for git history)
-### git reset --hard commit id
-### git reset file name (commit to staging)
-### git restore file name (staging to working directory)
-### git clone
+### 1. git config (--global) user.name "name"
+### 2. git config (--global) user.email "email"
+### 3. git add .
+### 4. git commit -m ""
+### 5. git push
+### 6. git pull
+### 7. git log & git log --oneline
+### 8. git checkout commit id
+### 9. git reset --soft HEAD~1
+### 10. git reflog (for git history)
+### 11. git reset --hard commit id
+### 12. git reset file name (commit to staging)
+### 13. git restore file name (staging to working directory)
+### 14. git clone
