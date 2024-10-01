@@ -14,9 +14,9 @@
 ### 13. git restore file name (staging to working directory)
 ### 14. git clone
 
-this is normal text
-**this is bold text**
-_this is italic text_
+this is normal text <br>
+**this is bold text** <br>
+_this is italic text_ <br>
 
 ```html
     <h4>Html Element</h4>
