@@ -27,3 +27,5 @@ _this is italic text_ <br>
 
 1. Git
 2. github
+
+![GitHubLogo](images/github-logo.png)
